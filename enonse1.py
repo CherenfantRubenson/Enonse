@@ -19,15 +19,17 @@
 # teks = teks.title()
 # print(teks)
 
+#Enonse 4
+# Eleman = "Offis Proteksyon Sitwayen"
+# jwenn = Eleman.split()
 
-Eleman = "Offis Proteksyon Sitwayen"
-jwenn = Eleman.split()
+# premyelet= []
 
-premyelet= []
+# for let in jwenn:
+#     premyelet.append(let[0])
 
-for let in jwenn:
-    premyelet.append(let[0])
+# print(premyelet)
 
-print(premyelet)
+teks = "papa Alfabe pase"
 
-
+print(teks.replace("a","@"))
