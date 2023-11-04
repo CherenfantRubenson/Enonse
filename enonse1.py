@@ -30,6 +30,14 @@
 
 # print(premyelet)
 
-teks = "papa Alfabe pase"
+# teks = "papa Alfabe pase"
 
-print(teks.replace("a","@"))
+# print(teks.replace("a","@"))
+
+#Enonse # 5
+
+
+chaine ="Ayiti"
+
+
+
